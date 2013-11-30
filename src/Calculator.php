@@ -6,4 +6,8 @@ class Calculator
 	{
 		return $number+$number2;
 	}
+	public function minus()
+	{
+		return $number-$number2;
+	}
 }
